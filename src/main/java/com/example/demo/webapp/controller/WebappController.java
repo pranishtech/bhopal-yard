@@ -32,6 +32,12 @@ public class WebappController {
 	public String getStatus() {
 		return "OK";
 	}
+	
+
+	@GetMapping("/home")
+	public String home() {
+		return "home";
+	}
 
 	@GetMapping("/getName")
 	public String getName(String name, Model model) {
