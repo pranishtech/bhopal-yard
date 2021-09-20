@@ -80,7 +80,7 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<h2>Responsive Form</h2>
+<h2>Bhopal Yard</h2>
 
 <div class="container">
   <form action="/action_page.php">
